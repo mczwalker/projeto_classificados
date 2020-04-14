@@ -1,0 +1,1 @@
+Projeto prático desenvolvido nas aulas do Curso PHP do Zero ao Profissional. Utilização de PHP com orientação a objetos e Bootstrap.
